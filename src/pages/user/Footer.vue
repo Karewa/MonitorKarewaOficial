@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="col-12 extra-info-disclaimer">
+        <!-- <div class="col-12 extra-info-disclaimer">
             <div class="neutral-width">
                 <div class="images-logos-container">
                     <div class="item">
@@ -42,7 +42,7 @@
                 </div>
 
             </div>
-        </div>
+        </div> -->
         <section id="" class="footer-client">
             <div class="neutral-width">
 
@@ -119,11 +119,11 @@
 
               </span>
                 </div>
-                <div class="develop-by">
+                <!-- <div class="develop-by">
                     <div class="divider">
                     </div>
                     <p>Desarrollado por <img class="img-responsive" src="@/assets/images/Logos/logo-blacklabs-dark.png" alt="Logo" /> © 2019</p>
-                </div>
+                </div> -->
             </div>
         </section>
     </div>

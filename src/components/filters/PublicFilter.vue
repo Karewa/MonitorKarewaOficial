@@ -48,7 +48,7 @@
                         <div :class="`form-group fg-float border-select m-0 p-0 col-lg-${colSizes['procedureType']} col-6`" v-if="checkIfShown('procedureType')" :key="keys.procedureTypes">
                             <div class="fg-line m-0">
                                 <select v-model="temp.procedureType" class="form-control select selectpicker" data-live-search="true"
-                                        data-live-search-placeholder="Buscar trimestre"
+                                        data-live-search-placeholder="Buscar procedimiento"
                                         title="Por tipo de procedimiento" @change="addFilter(query.procedureTypes, temp.procedureType, 'procedureTypes')">
                                         <option v-for="procedureType in procedureTypesSorted" :value="procedureType">
                                             {{$t(procedureType)}}

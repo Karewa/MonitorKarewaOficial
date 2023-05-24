@@ -24,7 +24,7 @@
                         <br>
                         <strong class="f-16">2.     Domicilio del “Responsable”</strong>
                         <br>
-                        Blvd. Antonio Ortiz Mena  número 2807-18, colonia Quintas del Sol, código postal 31214, Chihuahua, Chih.
+                        Ignacio Allende No. 2021 Col. Rubio. C.P. 31020. Chihuahua, Chihuahua.
                         Dicho domicilio es el establecido por el “Responsable” para oír y recibir notificaciones.
                         <br>
                         <br>
