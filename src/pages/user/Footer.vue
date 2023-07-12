@@ -69,16 +69,16 @@
                             Contratos
                         </router-link>
                     </li>
-                      <li>
+                      <!-- <li>
                           <router-link to="/calculations/corruption-index">
                               Índice de riesgo de corrupción
                           </router-link>
-                      </li>
+                      </li> -->
                   </div>
                   <div class="col-6">
-                        <li><router-link to="/comparations">Comparar monitores</router-link></li>
+                        <!-- <li><router-link to="/comparations">Comparar monitores</router-link></li> -->
                         <li><router-link to="/resources">Recursos</router-link></li>
-                        <li><router-link to="/login">Administrar</router-link></li>
+                        <!-- <li><router-link to="/login">Administrar</router-link></li> -->
                   </div>
 
                   </div>
@@ -102,9 +102,9 @@
                       <h1 class="f-14">Nosotros</h1>
                     </div>
                     <li>
-                        <router-link to="/about">
+                        <a href="https://www.karewa.org/conocenos">
                             Acerca de
-                        </router-link>
+                        </a>
                     </li>
                     <li>
                         <router-link to="/contact">

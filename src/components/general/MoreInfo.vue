@@ -28,7 +28,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-md-6">
+        <!-- <div class="col-12 col-md-6">
             <div class="card-info">
                 <img class="img-fluid" src="@/assets/images/Cards/providers-vector.svg" alt=""/>
                 <div>
@@ -49,7 +49,7 @@
                     </router-link>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </template>
 

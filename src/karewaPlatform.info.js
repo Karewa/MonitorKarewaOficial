@@ -17,14 +17,14 @@ export default  {
     },
     // Información dinámica que aparecerá en las vista "Login" de la plataforma
     infoLogin: {
-        nombreOrganizacion: "Nombre Organización",
-        lemaOrganizacion: "Lorem ipsum dolor sit amet",
+        nombreOrganizacion: "Karewa",
+        lemaOrganizacion: "Alza la voz contra la corupcción",
         descripcionEnParrafos: [
-            "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "Karewa es una asociación civil sin fines de lucro, que desde agosto de 2016 trabaja con el objetivo de prevenir la corrupción en los procesos de compra y contratación de los gobiernos municipales y estatales..",
+            "Todo esto a través de un programa estratégico de transparencia y rendición de cuentas a fin de contar con un eficiente y mejor gobierno."
         ],
-        enlaceWebsite: "https://direccionSition.dominio",
-        nombreWebsite: "direccionSition.dominio"
+        enlaceWebsite: "https://karewa.org",
+        nombreWebsite: "karewa.org"
 
     },
     // Información dinámica que define la fuente de información de los datos presentados en las vistas de: Contratos y Proveedores

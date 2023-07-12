@@ -27,9 +27,7 @@
                     </div>
 
                 </div>
-                <div class="login-footer">
-                    <span>Desarrollado por </span><a href="http://www.blacklabs.mx/"> <img src="@/assets/images/Logos/logo-blacklabs-claro.png" alt=""> </a>
-                </div>
+                
             </div>
 
             <div class="right-side">

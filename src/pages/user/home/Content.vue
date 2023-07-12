@@ -5,6 +5,7 @@
                 <div class="col-12 p-0">
                     <div class="floating-title-panel small">
                         <h1> Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública</h1>
+                        <p>La información presentada corresponde exclusivamente a unidades administrativas monitoreadas de la administración en curso</p>
                     </div>
                 </div>
 

@@ -64,22 +64,22 @@
                         name: 'Contratos',
                         to: '/contracts'
                     },
-                    {
+                  /*   {
                         name: 'Índice de Riesgo de Corrupción',
                         to: '/calculations/corruption-index'
-                    },
-                    {
+                    }, */
+                    /* {
                         name: 'Comparar',
                         to: '/comparations'
-                    },
+                    }, */
                     {
                         name: 'Recursos',
                         to: '/resources'
                     },
-                    {
+                    /* {
                         name: 'Administrar',
                         to: '/login'
-                    }
+                    } */
                 ]
             }
         },

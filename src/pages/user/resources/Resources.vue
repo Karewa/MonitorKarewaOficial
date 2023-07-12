@@ -33,15 +33,15 @@
                                                    href="#box-content1"
                                                    role="tab" aria-controls="box-content1" aria-selected="true">
                                                     Articulos  ( {{article.length}} )</a>
-                                                <a class="nav-link" id="box-tab" data-toggle="pill" href="#box-content2"
+                                                <!-- <a class="nav-link" id="box-tab" data-toggle="pill" href="#box-content2"
                                                    role="tab"
-                                                   aria-controls="box-content2" aria-selected="false"> Notas  ( {{notes.length}} )</a>
+                                                   aria-controls="box-content2" aria-selected="false"> Notas  ( {{notes.length}} )</a> -->
                                                 <a class="nav-link" id="box-tab" data-toggle="pill" href="#box-content3"
                                                    role="tab"
                                                    aria-controls="box-content3" aria-selected="false"> Marco Legal  ( {{legalFramework.length}} )</a>
-                                                <a class="nav-link" id="box-tab" data-toggle="pill" href="#box-content4"
+                                                <!-- <a class="nav-link" id="box-tab" data-toggle="pill" href="#box-content4"
                                                    role="tab"
-                                                   aria-controls="box-content4" aria-selected="false"> Sitio Web  ( {{website.length}} )</a>
+                                                   aria-controls="box-content4" aria-selected="false"> Sitio Web  ( {{website.length}} )</a> -->
                                             </div>
                                         </div>
                                         

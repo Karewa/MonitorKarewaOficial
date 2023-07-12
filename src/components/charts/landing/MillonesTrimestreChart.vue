@@ -57,8 +57,9 @@
                         },
                         labels: {
                             formatter: function (val) {
-                                // return val ? '$' + val.toFixed(0).replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,') + 'M' : "";
-                                return val ? '$' + val.toFixed(2).replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,') : "";
+                                //return val ? '$' + val.toFixed(0).replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,') + 'M' : "";
+                                //return val ? '$' + val.toFixed(2).replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,') : "";
+                                return val ? '$' + (val / 1000000).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ',') + 'M' : ""; //Se remplaza la numeracion por la abreviación M
                             }
                         },
                         // min: 1,
